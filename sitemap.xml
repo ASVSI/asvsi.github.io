@@ -4,21 +4,25 @@
   <url>
     <loc>https://asvsi.github.io/</loc>
     <priority>1.0</priority>
+    <lastmod>2026-01-05</lastmod>
   </url>
 
   <url>
     <loc>https://asvsi.github.io/blog/first-article/</loc>
     <priority>0.8</priority>
+    <lastmod>2026-01-05</lastmod>
   </url>
 
   <url>
     <loc>https://asvsi.github.io/blog/second-article/</loc>
     <priority>0.8</priority>
+    <lastmod>2026-01-05</lastmod>
   </url>
 
   <url>
     <loc>https://asvsi.github.io/blog/third-article/</loc>
     <priority>0.8</priority>
+    <lastmod>2026-01-05</lastmod>
   </url>
 
 </urlset>
